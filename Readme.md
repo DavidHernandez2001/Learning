@@ -10,6 +10,6 @@
 
 <h3 align="left"> Learning path </h3>
 
- - [x] Learning Go
- - [ ] Learning Python
- - [ ] Learning Machine Learning
+ - [x] Go
+ - [ ] Python
+ - [ ] Machine Learning
