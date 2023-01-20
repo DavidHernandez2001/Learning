@@ -12,7 +12,7 @@
 <h2 align="left"> Learning path Go </h2>
 
  - [x] [Introduction Go](https://github.com/DavidHernandez2001/Learning/tree/main/GOLANG/01-introduccion)
- - [ ] Data structures
+ - [x] [Data structures](https://github.com/DavidHernandez2001/Learning/tree/main/GOLANG/02-estructura-datos)
  - [ ] Flow control
  - [ ] Strings and Strconv
  - [ ] Functions
