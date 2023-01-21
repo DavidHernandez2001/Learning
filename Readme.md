@@ -13,7 +13,7 @@
 
  - [x] [Introduction Go](https://github.com/DavidHernandez2001/Learning/tree/main/GOLANG/01-introduccion)
  - [x] [Data structures](https://github.com/DavidHernandez2001/Learning/tree/main/GOLANG/02-estructura-datos)
- - [ ] Flow control
+ - [x] [Flow control](https://github.com/DavidHernandez2001/Learning/tree/main/GOLANG/03-control-flujos)
  - [ ] Strings and Strconv
  - [ ] Functions
  - [ ] POO
