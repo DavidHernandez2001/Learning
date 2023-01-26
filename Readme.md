@@ -14,8 +14,8 @@
  - [x] [Introduction Go](https://github.com/DavidHernandez2001/Learning/tree/main/GOLANG/01-introduccion)
  - [x] [Data structures](https://github.com/DavidHernandez2001/Learning/tree/main/GOLANG/02-estructura-datos)
  - [x] [Flow control](https://github.com/DavidHernandez2001/Learning/tree/main/GOLANG/03-control-flujos)
- - [ ] Strings and Strconv
- - [ ] Functions
+ - [x] [Strings and Strconv](https://github.com/DavidHernandez2001/Learning/tree/main/GOLANG/04-strings-strconv)
+ - [x] [Functions](https://github.com/DavidHernandez2001/Learning/tree/main/GOLANG/05-funciones)
  - [ ] POO
  - [ ] Modularization
  - [ ] Concurrency and channels
